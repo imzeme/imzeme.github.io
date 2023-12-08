@@ -1,0 +1,2 @@
+# ptoszek.pl
+Zchomikuj kogos! ;)
